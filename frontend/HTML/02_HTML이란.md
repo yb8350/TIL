@@ -122,3 +122,4 @@
 | 인터렉티브 콘텐츠 (Interactive Content) | 사용자와의 상호작용을 위한 컨텐츠 요소                                                    |
 
 ![html이란_10-1](./image/html이란_10-1.png)
+ 
