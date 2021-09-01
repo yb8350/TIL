@@ -6,3 +6,4 @@
 [[210829] HTML - HTML이란?](https://github.com/yb8350/TIL/blob/master/frontend/HTML/02_HTML%EC%9D%B4%EB%9E%80.md)  
 [[210830] HTML - 메타데이터 요소](https://github.com/yb8350/TIL/blob/master/frontend/HTML/03_%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%9A%94%EC%86%8C.md)  
 [[210831] HTML - 텍스트 요소](https://github.com/yb8350/TIL/blob/master/frontend/HTML/04_%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%9A%94%EC%86%8C.md)  
+[[210901] HTML - 구조를 나타내는 요소](https://github.com/yb8350/TIL/blob/master/frontend/HTML/05_%EA%B5%AC%EC%A1%B0%EB%A5%BC%20%EB%82%98%ED%83%80%EB%82%B4%EB%8A%94%20%EC%9A%94%EC%86%8C.md)  
