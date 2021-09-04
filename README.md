@@ -9,7 +9,9 @@
 🍀 [[210831] 텍스트 요소](https://github.com/yb8350/TIL/blob/master/frontend/HTML/04_%ED%85%8D%EC%8A%A4%ED%8A%B8%20%EC%9A%94%EC%86%8C.md)  
 🍀 [[210901] 구조를 나타내는 요소](https://github.com/yb8350/TIL/blob/master/frontend/HTML/05_%EA%B5%AC%EC%A1%B0%EB%A5%BC%20%EB%82%98%ED%83%80%EB%82%B4%EB%8A%94%20%EC%9A%94%EC%86%8C.md)  
 🍀 [[210902] 목록과 표](https://github.com/yb8350/TIL/blob/master/frontend/HTML/06_%EB%AA%A9%EB%A1%9D%EA%B3%BC%20%ED%91%9C.md)  
-🍀 [[210902] 임베디드 요소](https://github.com/yb8350/TIL/blob/master/frontend/HTML/07_%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C%20%EC%9A%94%EC%86%8C.md)
+🍀 [[210902] 임베디드 요소](https://github.com/yb8350/TIL/blob/master/frontend/HTML/07_%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C%20%EC%9A%94%EC%86%8C.md)  
+🍀 [[210903] 폼 관련 요소](https://github.com/yb8350/TIL/blob/master/frontend/HTML/08_%ED%8F%BC%20%EA%B4%80%EB%A0%A8%20%EC%9A%94%EC%86%8C.md)  
+🍀 [[210904] 전역 속성](https://github.com/yb8350/TIL/blob/master/frontend/HTML/09_%EC%A0%84%EC%97%AD%20%EC%86%8D%EC%84%B1.md)
 
 ### HTML 정리 틀
 
@@ -26,3 +28,6 @@
 ```html
 실습 코드
 ```
+
+## CSS
+🍀 
