@@ -13,13 +13,13 @@
 - CSS는 룰 기반(Rule-based)의 언어이다.
 - CSS를 통해 특정 요소, 혹은 특정 요소들의 집합의 스타일 규칙을 정의할 수 있다.
 - **주석 :** `/* 내용 */` 의 형식으로 작성
-
+<img src="https://user-images.githubusercontent.com/57048162/132126294-d7dd2c59-e477-4398-a599-fd3f6b2a3121.png" alt="css형태"> 
 > **1. 선택자 (Selector) :** 스타일을 지정할 html 요소를 선택  
 > **2. 선언 블록(declation block) :** 중괄호 `{ }` 내부의 여러 선언들을 작성  
 > **3. 선언(declations) :** 프로퍼티와 값으로 이루어진 쌍  
 > 4. `선택자 { 하나 이상의 선언 }` 의 형태로 이루어진 하나의 Rule(혹은 Rule Set)
 
-### 3. CSS를 적용하는 방
+### 3. CSS를 적용하는 방법
 
 1. **내부 스타일(embedded)**
    - HTML 문서의 head 태그 내부에 스타일을 작성하는 방식
