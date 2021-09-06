@@ -31,3 +31,4 @@
 
 ## CSS
 🍀 [[210905] CSS란](https://github.com/yb8350/TIL/blob/master/frontend/CSS/01_CSS%EB%9E%80.md)  
+🍀 [[210906] 선택자(셀렉터)](https://github.com/yb8350/TIL/blob/master/frontend/CSS/02_%EC%84%A0%ED%83%9D%EC%9E%90(%EC%85%80%EB%A0%89%ED%84%B0).md)  
