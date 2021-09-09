@@ -35,3 +35,5 @@
 🍀 [[210907] 폰트 관련 속성](https://github.com/yb8350/TIL/blob/master/frontend/CSS/03_%ED%8F%B0%ED%8A%B8%20%EA%B4%80%EB%A0%A8%20%EC%86%8D%EC%84%B1.md)  
 🍀 [[210908] 단위와 값](https://github.com/yb8350/TIL/blob/master/frontend/CSS/04_%EB%8B%A8%EC%9C%84%EC%99%80%20%EA%B0%92.md)  
 🍀 [[210908] 박스 모델](https://github.com/yb8350/TIL/blob/master/frontend/CSS/05_%EB%B0%95%EC%8A%A4%20%EB%AA%A8%EB%8D%B8.md)  
+🍀 [[210909] 레이아웃](https://github.com/yb8350/TIL/blob/master/frontend/CSS/06_%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83.md)  
+🍀 [[210909] 색상과 배경](https://github.com/yb8350/TIL/blob/master/frontend/CSS/07_%EC%83%89%EC%83%81%EA%B3%BC%20%EB%B0%B0%EA%B2%BD.md)
