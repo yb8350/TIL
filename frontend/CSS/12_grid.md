@@ -142,4 +142,47 @@
 }
 ```
 
+### 9. Container - justify-content, align-content
 
+- **`justify-content` :** 주 축을 기준으로 정렬 방법을 지정
+
+    📎 container에 요소를 배치하고 남는 공간이 있어야 한다.
+
+    - start : 주 축의 시작 점에 배치 (기본값)
+    - end : 주 축의 끝 점에 배치
+    - center : 주 축의 중심에 배치
+    - space-around : 주 축을 기준으로 요소의 앞뒤에 일정한 여백을 제공
+    - space-between : 주 축을 기준으로 요소 사이의 공간이 일정하도록 배치
+- **`align-content` :** 교차 축을 기준으로 정렬 방법을 지정
+    - start : 교차 축의 시작 점에 배치 (기본값)
+    - end : 교차 축의 끝 점에 배치
+    - center : 교차 축의 중심에 배치
+    - space-around : 교차 축을 기준으로 요소의 앞뒤에 일정한 여백을 제공
+    - space-between : 교차 축을 기준으로 요소 사이의 공간이 일정하도록 배치
+
+```css
+.container {
+	justify-content: center;
+	align-content: center;
+}
+```
+
+### 10. Container - justify-items, align-items
+
+- **`justify-items` :** grid 하나의 칸 안에서 요소를 주 축 기준으로 어떻게 정렬할지 지정
+    - stretch : grid 하나의 칸을 주 축 기준으로 가득 채움 (기본값)
+    - start : 주 축의 시작점에 배치
+    - end : 주 축의 끝점에 배치
+    - center : 주 축의 중심에 배치
+- **`align-items` :** grid 하나의 칸 안에서 요소를 교차 축 기준으로 어떻게 정렬할지 지정
+    - stretch : grid 하나의 칸을 교차 축 기준으로 가득 채움 (기본값)
+    - start : 교차 축의 시작점에 배치
+    - end : 교차 축의 끝점에 배치
+    - center : 교차 축의 중심에 배치
+
+```css
+.container {
+	justify-items: start;
+	align-items: end;
+}
+```
