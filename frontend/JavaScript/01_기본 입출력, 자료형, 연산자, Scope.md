@@ -309,4 +309,26 @@ console.log(!false); // output: true
 console.log(!123); // output: false
 ```
 
+### 14. SCOPE
 
+- **Scope :** 변수 혹은 상수에 접근할 수 있는 범위
+    - Global Scope : 전역에 선언되어 어디에서도 접근 가능
+    - Local Scope : 특정 지역에 선언되어, 해당 지역 내에서만 접근 가능
+
+```jsx
+let x - 1; // global scope
+console.log(x); // 1
+{
+	let x = 2; // local scope
+	let y = 3; // local scope
+	console.log(x); // 2
+	{
+		let y = 4;
+		console.log(y); // 4
+	}
+}
+
+console.log(x); // 1
+console.log(y); // error
+
+```
